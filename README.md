@@ -25,9 +25,10 @@ Este aplicativo em Python permite buscar estabelecimentos próximos a um endere�
 
 ---
 ## 📦 Criando Executável Exe
-
+```bash
 pip install pyinstaller
 pyinstaller --name "StoreSearcher" --onefile --windowed store_searcherGUI.py
+```
 ---
 
 ## 📦 Instalação
