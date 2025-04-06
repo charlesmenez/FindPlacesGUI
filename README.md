@@ -27,7 +27,7 @@ Este aplicativo em Python permite buscar estabelecimentos próximos a um endere�
 ## 📦 Criando Executável Exe
 ```bash
 pip install pyinstaller
-pyinstaller --name "FindPlacesGUI" --onefile --windowed store_searcherGUI.py
+pyinstaller --name "FindPlacesGUI" --onefile --windowed FindPlacesGUI.py
 ```
 ---
 
